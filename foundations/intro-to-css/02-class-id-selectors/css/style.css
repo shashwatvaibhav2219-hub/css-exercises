@@ -1,0 +1,21 @@
+.odd{
+    color: #000000;
+    background-color: rgb(255, 192, 203);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#evena{
+    color: hsl(240, 100%, 50%);
+    font-size: 36px
+}
+
+#evenb{
+    color: black;
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.spec{
+    font-size: 24px;
+}
