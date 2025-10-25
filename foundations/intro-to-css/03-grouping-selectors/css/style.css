@@ -1,0 +1,14 @@
+.class{
+        font-size: 28px;
+        font-family: Helvetica, Verdana,'Times New Roman', sans-serif;
+}
+
+.yes{
+    background-color: black;
+    color: white;
+}
+
+.no{
+    color: black;
+    background-color: yellow;
+}
